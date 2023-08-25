@@ -4,8 +4,6 @@ import java.awt.image.BufferedImage;
 import java.util.List;
 import javax.swing.ImageIcon;
 
-import obj.controlers.Loader;
-
 public class LoaderImage {
 
     public static final int MINA = 0;

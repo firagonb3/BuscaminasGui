@@ -1,4 +1,4 @@
-package obj.controlers;
+package graphics;
 
 import java.awt.Font;
 import java.awt.FontFormatException;
@@ -12,8 +12,8 @@ import javax.imageio.ImageIO;
 
 public class Loader {
 
-    private final static String originPathImage = "resources/img";
-    private final static String originPathFont = "resources/font/";
+    private final static String originPathImage = "res/img";
+    private final static String originPathFont = "res/font/";
 
     private Loader() {
     }

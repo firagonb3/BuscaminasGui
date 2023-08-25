@@ -11,7 +11,7 @@ import javax.swing.BorderFactory;
 // import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
-import obj.controlers.Loader;
+import graphics.Loader;
 import obj.gui.Interfaces.ComponentStyleDefaul;
 import obj.gui.Interfaces.InterfaceDisplay;
 
