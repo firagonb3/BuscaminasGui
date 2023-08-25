@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 
 public class Loader {
 
-    private final static String originPathImage = "res/img";
+    private final static String originPathImage = "res/img/";
     private final static String originPathFont = "res/font/";
 
     private Loader() {

@@ -23,6 +23,8 @@ public class LoaderImage {
     public static final int SIETE = 7;
     public static final int OCHO = 8;
 
+    public static final int ICON = 15;
+
     static {
         loaderImage();
     }
@@ -44,7 +46,8 @@ public class LoaderImage {
                 "CastillaBandera.png",
                 "CsillaDestapada.png",
                 "Reset.png",
-                "Reset2.png");
+                "Reset2.png",
+                "icon/ico.png");
     }
 
     public static ImageIcon getImageIcon(int index) {
