@@ -1,2 +1,2 @@
 @echo off
-start javaw -jar Buscaminas.jar -nogui
+start bin\javaw -jar Buscaminas.jar -nogui
