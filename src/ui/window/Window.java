@@ -1,8 +1,8 @@
-package gui.window;
+package ui.window;
 
 import javax.swing.JFrame;
 
-import gui.window.Layouts.MainLayout;
+import ui.window.layouts.MainLayout;
 
 public class Window extends JFrame {
     public Window() {

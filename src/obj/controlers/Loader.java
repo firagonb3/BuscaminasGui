@@ -12,8 +12,8 @@ import javax.imageio.ImageIO;
 
 public class Loader {
 
-    private final static String originPathImage = "src/resources/img";
-    private final static String originPathFont = "src/resources/font/";
+    private final static String originPathImage = "resources/img";
+    private final static String originPathFont = "resources/font/";
 
     private Loader() {
     }

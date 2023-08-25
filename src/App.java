@@ -1,7 +1,7 @@
 import javax.swing.SwingUtilities;
 
-import gui.window.Window;
 import obj.controlers.GameControler;
+import ui.window.Window;
 
 public class App {
     public static void main(String[] args) {

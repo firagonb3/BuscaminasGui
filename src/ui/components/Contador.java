@@ -1,4 +1,4 @@
-package gui.components;
+package ui.components;
 
 import obj.controlers.GameViewController;
 import obj.gui.components.ComponentDisplay;
