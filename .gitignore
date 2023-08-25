@@ -1,3 +1,4 @@
-Buscaminas
-TestJpakage
 *.jar
+dist
+Run.spec
+build
