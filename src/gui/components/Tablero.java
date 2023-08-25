@@ -4,11 +4,11 @@ import obj.controlers.GameControler;
 import obj.controlers.GameViewController;
 import obj.gui.Interfaces.InterfaceBoardCell;
 import obj.gui.components.ComponentPanel;
-import resources.graphics.LoaderImage;
 
 import java.awt.GridLayout;
 
 import game.variablesGame;
+import graphics.LoaderImage;
 
 public class Tablero extends ComponentPanel implements InterfaceBoardCell {
 

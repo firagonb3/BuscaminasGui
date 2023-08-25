@@ -7,8 +7,8 @@ import java.awt.event.MouseListener;
 import javax.swing.ImageIcon;
 import javax.swing.SwingUtilities;
 
+import graphics.LoaderImage;
 import obj.gui.Interfaces.ComponentStyleDefaul;
-import resources.graphics.LoaderImage;
 
 public abstract class ComponentCell extends ComponentButton implements MouseListener, ComponentStyleDefaul {
 

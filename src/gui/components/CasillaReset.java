@@ -2,10 +2,11 @@ package gui.components;
 
 import javax.swing.ImageIcon;
 
+import graphics.LoaderImage;
+
 import java.awt.event.MouseEvent;
 
 import obj.gui.components.ComponentCell;
-import resources.graphics.LoaderImage;
 
 public class CasillaReset extends ComponentCell {
 
