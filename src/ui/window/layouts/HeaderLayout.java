@@ -5,7 +5,7 @@ import java.awt.Color;
 
 import javax.swing.JComponent;
 
-import obj.gui.components.ComponentPanel;
+import obj.ui.components.ComponentPanel;
 
 public class HeaderLayout extends ComponentPanel {
     public HeaderLayout(JComponent ...jp ) {

@@ -1,4 +1,4 @@
-package obj.gui.Interfaces;
+package obj.ui.interfaces;
 
 public interface GameViewObservable {
 

@@ -1,4 +1,4 @@
-package obj.gui.components;
+package obj.ui.components;
 
 import java.awt.Dimension;
 import java.awt.event.MouseEvent;
@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 import javax.swing.SwingUtilities;
 
 import graphics.LoaderImage;
-import obj.gui.Interfaces.ComponentStyleDefaul;
+import obj.ui.interfaces.ComponentStyleDefaul;
 
 public abstract class ComponentCell extends ComponentButton implements MouseListener, ComponentStyleDefaul {
 

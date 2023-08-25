@@ -1,7 +1,7 @@
 package ui.window.layouts;
 
 import obj.controlers.GameViewController;
-import obj.gui.components.ComponentPanel;
+import obj.ui.components.ComponentPanel;
 import ui.components.CantidadMinas;
 import ui.components.Contador;
 import ui.components.Reset;

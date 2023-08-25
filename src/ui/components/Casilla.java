@@ -5,7 +5,7 @@ import java.awt.event.MouseEvent;
 import javax.swing.SwingUtilities;
 
 import obj.controlers.GameViewController;
-import obj.gui.components.ComponentCell;
+import obj.ui.components.ComponentCell;
 
 public class Casilla extends ComponentCell {
 

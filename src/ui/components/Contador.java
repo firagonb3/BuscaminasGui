@@ -1,7 +1,7 @@
 package ui.components;
 
 import obj.controlers.GameViewController;
-import obj.gui.components.ComponentDisplay;
+import obj.ui.components.ComponentDisplay;
 
 public class Contador extends ComponentDisplay {
 

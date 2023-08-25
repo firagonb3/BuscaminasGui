@@ -31,7 +31,6 @@ public class GameControler {
     }
 
     public static int[][] FnFinpartida() {
-        System.out.println("FIN PARTIDA");
         return board.getBoard();
     }
 

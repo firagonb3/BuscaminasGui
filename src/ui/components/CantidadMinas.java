@@ -2,7 +2,7 @@ package ui.components;
 
 import obj.controlers.GameControler;
 import obj.controlers.GameViewController;
-import obj.gui.components.ComponentDisplay;
+import obj.ui.components.ComponentDisplay;
 
 public class CantidadMinas extends ComponentDisplay {
 

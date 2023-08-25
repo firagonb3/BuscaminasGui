@@ -4,11 +4,7 @@ import java.awt.Color;
 
 import obj.controlers.GameControler;
 import obj.controlers.GameViewController;
-
-// import javax.swing.Box;
-// import javax.swing.BoxLayout;
-
-import obj.gui.components.ComponentPanel;
+import obj.ui.components.ComponentPanel;
 
 public class Reset extends ComponentPanel {
 
@@ -16,7 +12,6 @@ public class Reset extends ComponentPanel {
         CasillaReset reset = new CasillaReset();
 
         reset.addActionListener(e -> {
-            System.out.println("Reset");
             GameControler.ResetBoard();
             gvc.fnRestCell("Tablero");
             gvc.ResetMineCounter("CantidadMinas");

@@ -1,4 +1,4 @@
-package obj.gui.components;
+package obj.ui.components;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -12,8 +12,8 @@ import javax.swing.BorderFactory;
 import javax.swing.SwingConstants;
 
 import graphics.Loader;
-import obj.gui.Interfaces.ComponentStyleDefaul;
-import obj.gui.Interfaces.InterfaceDisplay;
+import obj.ui.interfaces.ComponentStyleDefaul;
+import obj.ui.interfaces.InterfaceDisplay;
 
 public abstract class ComponentDisplay extends ComponentLabel implements InterfaceDisplay, ComponentStyleDefaul {
 

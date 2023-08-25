@@ -2,8 +2,8 @@ package ui.components;
 
 import obj.controlers.GameControler;
 import obj.controlers.GameViewController;
-import obj.gui.Interfaces.InterfaceBoardCell;
-import obj.gui.components.ComponentPanel;
+import obj.ui.components.ComponentPanel;
+import obj.ui.interfaces.InterfaceBoardCell;
 
 import java.awt.GridLayout;
 

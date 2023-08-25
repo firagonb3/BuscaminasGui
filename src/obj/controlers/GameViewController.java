@@ -3,9 +3,9 @@ package obj.controlers;
 import java.util.HashMap;
 import java.util.Map;
 
-import obj.gui.Interfaces.GameViewObservable;
-import obj.gui.Interfaces.InterfaceBoardCell;
-import obj.gui.Interfaces.InterfaceDisplay;
+import obj.ui.interfaces.GameViewObservable;
+import obj.ui.interfaces.InterfaceBoardCell;
+import obj.ui.interfaces.InterfaceDisplay;
 
 public class GameViewController implements GameViewObservable {
 
@@ -25,7 +25,6 @@ public class GameViewController implements GameViewObservable {
         InterfaceDisplay dp = display.get(name);
         if (dp != null) {
             dp.init();
-            System.out.println("cosa");
         } else {
             throw new RuntimeException("Componente no existente: " + name);
         }

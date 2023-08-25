@@ -1,4 +1,4 @@
-package obj.gui.components;
+package obj.ui.components;
 
 import javax.swing.JButton;
 
