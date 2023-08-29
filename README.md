@@ -15,6 +15,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Dependency Management
 
+javac -d bin -sourcepath src src/*.java
+jar cvfm build\MiProyecto.jar build\MANIFEST.MF -C bin .
 pip install pyinstaller
 pyinstaller --onefile --noconsole .\Run\Run.py
 

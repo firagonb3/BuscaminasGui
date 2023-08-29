@@ -1,4 +1,7 @@
 *.jar
 dist
-Run.spec
 build
+bin
+Run.spec
+
+!jrt-fs.jar
